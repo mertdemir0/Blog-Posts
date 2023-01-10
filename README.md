@@ -1,7 +1,3 @@
-
-![Logo](https://drive.google.com/file/d/1Y3I-kv46lQFNDrb2w1GvWGbwGMHs-UtG/view?usp=sharing)
-
-
 # Medium Blog Posts
 
 You can find my code examples.
