@@ -1,0 +1,17 @@
+2022.12.22 19:41:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\M D\Desktop\ml-b\Scala\.metals\lsp.trace.json or C:\Users\M D\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.22 19:41:50 INFO  logging to file C:\Users\M D\Desktop\ml-b\Scala\.metals\metals.log
+2022.12.22 19:41:50 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\M D\Desktop\ml-b\Scala' for client Visual Studio Code 1.74.2.
+2022.12.22 19:41:51 INFO  time: initialize in 1.68s
+2022.12.22 19:41:54 WARN  Build server is not auto-connectable.
+2022.12.22 19:41:54 WARN  no build tool detected in workspace 'C:\Users\M D\Desktop\ml-b\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.22 19:44:32 ERROR 
+2022.12.22 19:44:32 ERROR Exiting due to error in the template: C:\Users\MD6E2F~1\AppData\Local\Temp\giter8-4020164189200
+2022.12.22 19:44:32 ERROR File: C:\Users\MD6E2F~1\AppData\Local\Temp\giter8-4020164189200\src\main\g8\build.sbt, An unexpected error occurred while processing the template. Check that all literal '$' are properly escaped with '\$'
+2022.12.22 19:44:32 ERROR 
+2022.12.22 19:44:32 INFO  time: ran 'giter8.Giter8' in 4.01s
+2022.12.22 19:44:45 WARN  Build server is not auto-connectable.
+2022.12.22 19:47:35 INFO  
+2022.12.22 19:47:35 INFO  Template applied in C:\Users\M D\Desktop\ml-b\Scala\.\scala-native
+2022.12.22 19:47:35 INFO  
+2022.12.22 19:47:35 INFO  time: ran 'giter8.Giter8' in 3.87s
+2022.12.22 19:53:14 INFO  shutting down Metals
