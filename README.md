@@ -13,6 +13,7 @@ You can find my code examples.
 - [Machine Learning Algorithm Series: Fisher Kernel Algorithm with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-fisher-kernel-algorithm-with-python-julia-and-r-code-examples-9445d32512dd)
 - [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
 - [Exploring the Potential of Blockchain in Healthcare: Benefits, Challenges, and Future Implications](https://mertdemir.org/2023/01/05/exploring-the-potential-of-blockchain-in-healthcare-benefits-challenges-and-future-implications)
+- [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
 
 
 ## Roadmap
@@ -38,7 +39,7 @@ If you have any feedback, please reach out to us at info@mertdemir.org
 
 ## Authors
 
-- [@mertdemir](https://www.github.com/mertdemir0)
+- [Mert Demir](https://www.github.com/mertdemir0)
 
 
 ## License
