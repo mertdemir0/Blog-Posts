@@ -2,11 +2,15 @@
 
 You can find my code examples.
 
+---
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mertdemir.org)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdemir0)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mertinblack)
+
+---
+
 ## Documentation
 
 - [Machine Learning Algorithm Series: Graph Kernel Algorithm with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-graph-kernel-algorithm-with-python-and-julia-code-examples-a212c928bd1d)
@@ -14,7 +18,11 @@ You can find my code examples.
 - [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
 - [Exploring the Potential of Blockchain in Healthcare: Benefits, Challenges, and Future Implications](https://mertdemir.org/2023/01/05/exploring-the-potential-of-blockchain-in-healthcare-benefits-challenges-and-future-implications)
 - [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
+- [Machine Learning Algorithm Series: Eigenvectors and Eigenvalues with Python, Julia, and R code examples]()
 
+## Next Article
+
+- Kernel Methods for vector output
 
 ## Roadmap
 
@@ -24,6 +32,7 @@ You can find my code examples.
 
 - Will start data science and data analysis series
 
+---
 
 ## Related
 
