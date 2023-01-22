@@ -18,7 +18,7 @@ You can find my code examples.
 - [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
 - [Exploring the Potential of Blockchain in Healthcare: Benefits, Challenges, and Future Implications](https://mertdemir.org/2023/01/05/exploring-the-potential-of-blockchain-in-healthcare-benefits-challenges-and-future-implications)
 - [Machine Learning Algorithm Series: Gaussian Processes with Python, Julia, and R code examples](https://medium.com/@mertdemir0/machine-learning-algorithm-series-gaussian-processes-with-python-julia-and-r-code-examples-a5258b923bce)
-- [Machine Learning Algorithm Series: Eigenvectors and Eigenvalues with Python, Julia, and R code examples]()
+- [Machine Learning Algorithm Series: Eigenvectors and Eigenvalues with Python, Julia, and R code examples](https://medium.com/dev-genius/machine-learning-algorithm-series-eigenvectors-and-eigenvalues-with-python-julia-and-r-code-94de438885b0)
 
 ## Next Article
 
